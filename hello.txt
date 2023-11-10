@@ -10,3 +10,4 @@ hello git! hello jcz! hot-fix test
 push 1111111111111111
 ssh免密成功，在github里修改内容
 ssh成功，在git里修改内容
+github连接gitee
